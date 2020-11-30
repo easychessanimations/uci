@@ -1,6 +1,6 @@
 {
   "name": "@easychessanimations/uci",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "Package uci.",
   "main": "./lib/uci.js",
   "scripts": {
